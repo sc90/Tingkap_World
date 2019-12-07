@@ -31,7 +31,7 @@ const About = () => {
           />
           <Header
             as="h2"
-            content="Welcome to Tingkap World , a web platform to connect with the community in your neighbourhood."
+            content="Welcome to Tingkap World , a social platform to connect with communities in your neighbourhood."
             inverted
             style={{
               fontSize: "1.5em",
