@@ -42,7 +42,7 @@ const About = () => {
           />
           <Header
             as="h3"
-            content="Actively participate to improve the living standard around you"
+            content="Actively participate to promote growing society"
             inverted
             style={{
               fontSize: "1.2em",
@@ -62,6 +62,7 @@ const About = () => {
               marginTop: "3em"
             }}
           />
+          <br />
           <Button style={{ margin: "auto", padding: "2em" }} />
         </Container>
       </Segment>

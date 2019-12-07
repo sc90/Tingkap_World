@@ -9,7 +9,7 @@ document.head.appendChild(styleLink);
 
 const EnterButton = () => {
   return (
-    <div className="about_page">
+    <div className="enter_button">
       <div>
         <Button content="Assimilate" icon="right arrow" labelPosition="right" />
       </div>
