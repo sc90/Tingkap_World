@@ -31,7 +31,7 @@ const About = () => {
           />
           <Header
             as="h2"
-            content="Welcome to Tingkap World , a web platform to join with the community activities in your neighbourhood."
+            content="Welcome to Tingkap World , a web platform to connect with the community in your neighbourhood."
             inverted
             style={{
               fontSize: "1.5em",
@@ -42,7 +42,7 @@ const About = () => {
           />
           <Header
             as="h3"
-            content="Actively participate to promote growing society"
+            content="Actively participate to promote growing society."
             inverted
             style={{
               fontSize: "1.2em",
@@ -53,7 +53,7 @@ const About = () => {
           />
           <Header
             as="h4"
-            content="Promote local businesses and community events around you and send feedbacks to enhance services."
+            content="Know your local businesses, engage in community events around you and send feedbacks to enhance quality of life."
             inverted
             style={{
               fontSize: "1em",
