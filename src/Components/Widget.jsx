@@ -5,7 +5,7 @@ const useStyles = makeStyles({
   widget: {
     width: "250px",
     height: "100vh",
-    background: "#ffc04c",
+    backgroundImage: "linear-gradient(to bottom right, #ffae19, #fff6e5)",
     position: "absolute",
     right: "0px",
     zIndex: 1
