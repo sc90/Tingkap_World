@@ -14,7 +14,7 @@ const About = () => {
       <Segment
         inverted
         textAlign="center"
-        style={{ minHeight: 700, padding: "1em 0em" }}
+        style={{ minHeight: "100vh", padding: "1em 0em" }}
         vertical
       >
         <Container text>
